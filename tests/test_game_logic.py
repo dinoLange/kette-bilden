@@ -1,7 +1,6 @@
 import unittest
 
-from game.game_logic import get_random_dice_numbers
-
+from game_logic import get_random_dice_numbers
 
 class RandomDiceTestCases(unittest.TestCase):
 
